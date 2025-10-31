@@ -3,4 +3,4 @@
 <h3>Junior frontend and backend developer from Russia 🌏</h2>
 
 <h3>Contact me 📫</h3>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](Telegram)]()
